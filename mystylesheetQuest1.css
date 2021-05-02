@@ -1,0 +1,20 @@
+#info{
+    background-color: aqua;
+    font-style: oblique;
+    font-size: large;
+    margin: 2%;
+ 
+}
+#inscri{
+    background-color: blueviolet;
+    font-style: italic;
+    margin: 3%;
+    
+}
+#pret{
+    background-color: crimson;
+    font-style: inherit;
+    margin: 4%;
+    
+    
+}
